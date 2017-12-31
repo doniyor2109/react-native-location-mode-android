@@ -1,0 +1,20 @@
+{
+  "name": "react-native-location-mode-android",
+  "version": "0.1.0",
+  "peer-dependencies": {
+    "react-native": "0.50.3"
+  },
+  "main": "./index.js",
+  "repository": "https://github.com/doniyor2109/react-native-location-mode-android.git",
+  "author": {
+    "name": "Aliyev Doniyor",
+    "email": "doniyor2109@gmail.com",
+    "url": "https://twitter.com/doniyor2109"
+  },
+  "keywords": [
+    "react-native",
+    "location",
+    "android",
+    "location access"
+  ]
+}
