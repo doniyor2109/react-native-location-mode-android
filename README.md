@@ -1,7 +1,23 @@
 # react-native-location-mode-android
 Provides information about location mode for android
 
-## Get phone's location mode
+## Install
+
+Download package
+
+```javascript
+npm install react-native-location-mode-android --save
+```
+
+Link plugin files
+```javascript
+react-native link react-native-location-mode-android
+```
+
+
+## Usage
+
+### Get phone's location mode
 ```javascript
 import LocationMode from 'react-native-location-mode-android';
 
@@ -11,7 +27,7 @@ LocationMode.getMode().then((mode) => {
 
 ```
 
-## Get check specific mode
+### Get check specific mode
 
 ```javascript
 import LocationMode from 'react-native-location-mode-android';
