@@ -27,7 +27,7 @@ LocationMode.getMode().then((mode) => {
 
 ```
 
-### Get check specific mode
+### Check specific mode
 
 ```javascript
 import LocationMode from 'react-native-location-mode-android';
